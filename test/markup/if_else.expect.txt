@@ -1,0 +1,6 @@
+<span class="hljs-keyword">if</span> <span class="hljs-literal">true</span>:
+    <span class="hljs-keyword">pass</span>
+<span class="hljs-keyword">elif</span> <span class="hljs-literal">true</span>:
+    <span class="hljs-keyword">pass</span>
+<span class="hljs-keyword">else</span>:
+    <span class="hljs-keyword">pass</span>

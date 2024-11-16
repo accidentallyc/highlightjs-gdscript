@@ -1,0 +1,5 @@
+<span class="hljs-comment"># one line comment</span>
+
+<span class="hljs-comment">&quot;&quot;&quot;
+Multi-line comment
+&quot;&quot;&quot;</span>
